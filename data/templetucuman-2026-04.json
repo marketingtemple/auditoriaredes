@@ -1,0 +1,33 @@
+{
+  "bar": "templetucuman",
+  "mes": "2026-04",
+  "criterios": {
+    "frecuencia": {
+      "puntaje": 25,
+      "max": 25,
+      "comentario": ""
+    },
+    "tono_contenido": {
+      "puntaje": 40,
+      "max": 40,
+      "comentario": ""
+    },
+    "estetica_visual": {
+      "puntaje": 25,
+      "max": 25,
+      "comentario": ""
+    },
+    "historias_destacadas": {
+      "puntaje": 10,
+      "max": 10,
+      "comentario": ""
+    }
+  },
+  "puntaje_total": 100,
+  "aprobado": true,
+  "plan_de_accion": [
+    "Mantener el estándar actual en los 4 criterios — recuperación total desde el 40/100 de marzo, ahora en 100/100, usar como referencia de mejora rápida para otras sucursales",
+    "Sin acciones correctivas pendientes; foco del próximo mes en sostener la corrección lograda en tono y estética"
+  ],
+  "fecha_auditoria": "2026-07-22T14:06:40.951Z"
+}
