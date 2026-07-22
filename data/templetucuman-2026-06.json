@@ -1,0 +1,35 @@
+{
+  "bar": "templetucuman",
+  "mes": "2026-06",
+  "criterios": {
+    "frecuencia": {
+      "puntaje": 0,
+      "max": 25,
+      "comentario": ""
+    },
+    "tono_contenido": {
+      "puntaje": 40,
+      "max": 40,
+      "comentario": ""
+    },
+    "estetica_visual": {
+      "puntaje": 20,
+      "max": 25,
+      "comentario": ""
+    },
+    "historias_destacadas": {
+      "puntaje": 0,
+      "max": 10,
+      "comentario": ""
+    }
+  },
+  "puntaje_total": 60,
+  "aprobado": false,
+  "plan_de_accion": [
+    "Retomar frecuencia mínima de 8 posteos/mes de inmediato — venía de dos meses en 100/100, cayó a 0 en mayo y otra vez en junio, ya es un patrón que hay que cortar; alcanza para pasar de 60 a 85/100",
+    "Subir las 3 historias destacadas obligatorias (Menú, Horarios, Reservas)",
+    "Frenar el uso notorio de IA en el contenido visual — está afectando estética (25→20) y es una señal de alerta temprana antes de que escale como en Maschwitz",
+    "Retomar el trabajo sobre el vínculo con el local (ya identificado como causa raíz en mayo) para asegurar información y fotos propias que reduzcan la dependencia de IA"
+  ],
+  "fecha_auditoria": "2026-07-22T15:32:52.391Z"
+}
