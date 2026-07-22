@@ -1,0 +1,33 @@
+{
+  "bar": "templebarriochino",
+  "mes": "2026-06",
+  "criterios": {
+    "frecuencia": {
+      "puntaje": 25,
+      "max": 25,
+      "comentario": ""
+    },
+    "tono_contenido": {
+      "puntaje": 40,
+      "max": 40,
+      "comentario": ""
+    },
+    "estetica_visual": {
+      "puntaje": 25,
+      "max": 25,
+      "comentario": ""
+    },
+    "historias_destacadas": {
+      "puntaje": 10,
+      "max": 10,
+      "comentario": ""
+    }
+  },
+  "puntaje_total": 100,
+  "aprobado": true,
+  "plan_de_accion": [
+    "Mantener el estándar actual en los 4 criterios — recuperación total tras dos meses con frecuencia en falla (marzo y mayo en 0/25), ahora en 100/100 con contenido de Mundial destacado en cantidad y calidad",
+    "Capitalizar la sinergia con @templecerveza como caso de referencia: documentar qué está funcionando ahí (formatos, frecuencia, coordinación) para replicarlo en otras sucursales con problemas de tono o frecuencia"
+  ],
+  "fecha_auditoria": "2026-07-22T15:22:54.845Z"
+}
