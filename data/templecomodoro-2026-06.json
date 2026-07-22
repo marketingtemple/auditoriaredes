@@ -1,0 +1,35 @@
+{
+  "bar": "templecomodoro",
+  "mes": "2026-06",
+  "criterios": {
+    "frecuencia": {
+      "puntaje": 0,
+      "max": 25,
+      "comentario": ""
+    },
+    "tono_contenido": {
+      "puntaje": 0,
+      "max": 40,
+      "comentario": ""
+    },
+    "estetica_visual": {
+      "puntaje": 0,
+      "max": 25,
+      "comentario": ""
+    },
+    "historias_destacadas": {
+      "puntaje": 0,
+      "max": 10,
+      "comentario": ""
+    }
+  },
+  "puntaje_total": 0,
+  "aprobado": false,
+  "plan_de_accion": [
+    "Reunión urgente y formal con el responsable de la cuenta: cuarto mes consecutivo crítico (15→0→0→0), tercer mes seguido de inactividad total — patrón de abandono absoluto, ya no amerita otro pedido sino una decisión de gestión",
+    "Escalar la reasignación de responsable como prioridad, no como opción: tres meses de cero actividad indican que el problema no se resuelve solo con seguimiento",
+    "Confirmar si hay una causa operativa de fondo (local cerrado, sin CM asignado, conflicto interno) que explique el abandono sostenido antes de invertir más tiempo en pedidos de contenido",
+    "Si se resuelve el bloqueo, retomar con el KV de julio: frecuencia mínima de 8 posteos y destacadas obligatorias, con seguimiento quincenal hasta estabilizar"
+  ],
+  "fecha_auditoria": "2026-07-22T15:33:29.407Z"
+}
