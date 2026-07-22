@@ -1,0 +1,33 @@
+{
+  "bar": "templepuertomadero",
+  "mes": "2026-06",
+  "criterios": {
+    "frecuencia": {
+      "puntaje": 25,
+      "max": 25,
+      "comentario": ""
+    },
+    "tono_contenido": {
+      "puntaje": 40,
+      "max": 40,
+      "comentario": ""
+    },
+    "estetica_visual": {
+      "puntaje": 25,
+      "max": 25,
+      "comentario": ""
+    },
+    "historias_destacadas": {
+      "puntaje": 10,
+      "max": 10,
+      "comentario": ""
+    }
+  },
+  "puntaje_total": 100,
+  "aprobado": true,
+  "plan_de_accion": [
+    "Mantener el estándar actual en los 4 criterios — segundo mes consecutivo en 100/100, con contenido audiovisual como diferencial claro por sobre el estático",
+    "Trasladar el enfoque audiovisual a Hollywood y Caminito, que comparten equipo con Puerto Madero — usar esta cuenta como referencia directa de formato para esas dos sucursales"
+  ],
+  "fecha_auditoria": "2026-07-22T15:25:11.920Z"
+}
