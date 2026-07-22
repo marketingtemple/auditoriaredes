@@ -45,7 +45,8 @@
   .rank-row.empty { opacity: 0.5; }
   .rank-pos { font-family: 'Anton', sans-serif; font-size: 20px; color: var(--muted); text-align: center; }
   .rank-row:nth-child(1) .rank-pos { color: var(--yellow); }
-  .rank-bar { font-weight: 700; }
+  .rank-bar { font-weight: 700; color: var(--text); text-decoration: none; }
+  .rank-bar:hover { color: var(--teal); text-decoration: underline; }
   .rank-bar::before { content: "@"; color: var(--muted); font-weight: 500; }
   .rank-bars { display: flex; flex-direction: column; gap: 4px; min-width: 160px; }
   .mini-bar-row { display: grid; grid-template-columns: 70px 1fr; gap: 6px; align-items: center; font-size: 10px; color: var(--muted); }
@@ -79,6 +80,17 @@
 
   .empty-msg { color: var(--muted); font-size: 13px; }
   footer { text-align: center; color: var(--muted); font-size: 11.5px; padding: 20px; }
+
+  header.top { display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+  .header-right { display: flex; align-items: center; gap: 16px; margin-top: 4px; }
+  .header-logo { height: 40px; width: auto; }
+  .materiales-wrap { position: relative; }
+  .materiales-btn { background: transparent; border: 1px solid var(--line); color: var(--text); font-family: 'Poppins', sans-serif; font-weight: 600; font-size: 13.5px; border-radius: 8px; padding: 9px 14px; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; }
+  .materiales-btn:hover { border-color: var(--teal); color: var(--teal); }
+  .materiales-menu { position: absolute; right: 0; top: calc(100% + 8px); background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 6px; min-width: 220px; display: none; flex-direction: column; gap: 2px; z-index: 40; box-shadow: 0 8px 24px rgba(0,0,0,0.35); }
+  .materiales-menu.open { display: flex; }
+  .materiales-menu a { color: var(--text); text-decoration: none; font-size: 13.5px; padding: 9px 10px; border-radius: 6px; display: block; }
+  .materiales-menu a:hover { background: var(--surface-2); color: var(--teal); }
 </style>
 </head>
 <body>
@@ -87,6 +99,18 @@
   <div class="brand">
     <div class="mark">TEMPLE</div>
     <h1>Auditorías Redes</h1>
+  </div>
+  <div class="header-right">
+    <div class="materiales-wrap">
+      <button class="materiales-btn" id="btnMateriales" type="button">📁 Materiales ▾</button>
+      <div class="materiales-menu" id="menuMateriales">
+        <a href="https://drive.google.com/drive/folders/1VW2K7Suqm883ZB5HRPdTN4eTtI_emyTi?usp=drive_link" target="_blank" rel="noopener">Manual de marca TEMPLE</a>
+        <a href="https://drive.google.com/drive/folders/1MjZWNqGSVsIyCiSHqBHoj-7I7Kyd-bYT?usp=drive_link" target="_blank" rel="noopener">Campaña vigente</a>
+        <a href="https://drive.google.com/drive/folders/1L4NF2QdXclcbxaMsKdv9kbkb6oK66DBy?usp=drive_link" target="_blank" rel="noopener">Imágenes</a>
+        <a href="https://drive.google.com/drive/folders/1OULvxgnHzdtGy04LtCq-v5ysfBzut-ql?usp=drive_link" target="_blank" rel="noopener">Historias destacadas</a>
+      </div>
+    </div>
+    <img src="isologo-temple.png" alt="TEMPLE" class="header-logo" />
   </div>
 </header>
 
@@ -122,7 +146,6 @@
   const BARES = [
     "casatemple","templebarriochino","templehollywood","templepuertomadero",
     "clubtemple","templecaminito","templemaschwitz",
-    "templecatedral","templecordoba","templesalta","templetucuman",
     "templecomodoro","templeriogallegos","templerosario","templesgo"
   ];
 
@@ -202,7 +225,7 @@
     sinDatos.forEach(bar => {
       const row = document.createElement("div");
       row.className = "rank-row empty";
-      row.innerHTML = `<span class="rank-pos">—</span><span class="rank-bar">${bar}</span><span></span><span class="seal none">Sin auditar</span><span></span>`;
+      row.innerHTML = `<span class="rank-pos">—</span><a class="rank-bar" href="https://www.instagram.com/${bar}" target="_blank" rel="noopener">${bar}</a><span></span><span class="seal none">Sin auditar</span><span></span>`;
       wrap.appendChild(row);
     });
 
@@ -226,7 +249,7 @@
 
     row.innerHTML = `
       <span class="rank-pos">${pos}</span>
-      <span class="rank-bar">${d.bar}</span>
+      <a class="rank-bar" href="https://www.instagram.com/${d.bar}" target="_blank" rel="noopener">${d.bar}</a>
       <div class="rank-bars">${miniBars}</div>
       <span class="seal ${d.aprobado ? "pass" : "fail"}">${d.aprobado ? "Aprobado" : "No aprobado"}</span>
       <span class="rank-score ${d.aprobado ? "" : "fail"}">${d.puntaje_total}</span>
@@ -294,6 +317,12 @@
       </table>
     `;
   }
+
+  document.getElementById("btnMateriales").addEventListener("click", (e) => {
+    e.stopPropagation();
+    document.getElementById("menuMateriales").classList.toggle("open");
+  });
+  document.addEventListener("click", () => document.getElementById("menuMateriales").classList.remove("open"));
 
   fetchData();
 </script>
