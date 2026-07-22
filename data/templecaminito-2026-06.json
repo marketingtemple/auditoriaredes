@@ -1,0 +1,34 @@
+{
+  "bar": "templecaminito",
+  "mes": "2026-06",
+  "criterios": {
+    "frecuencia": {
+      "puntaje": 25,
+      "max": 25,
+      "comentario": ""
+    },
+    "tono_contenido": {
+      "puntaje": 40,
+      "max": 40,
+      "comentario": ""
+    },
+    "estetica_visual": {
+      "puntaje": 25,
+      "max": 25,
+      "comentario": ""
+    },
+    "historias_destacadas": {
+      "puntaje": 10,
+      "max": 10,
+      "comentario": ""
+    }
+  },
+  "puntaje_total": 100,
+  "aprobado": true,
+  "plan_de_accion": [
+    "Mantener el estándar actual en los 4 criterios — 100/100 con recuperación total tras dos meses seguidos con frecuencia en falla (marzo y abril en 0/25)",
+    "Explotar el diferencial de plaza que hoy no se está aprovechando: coordinar con el CM una línea de contenido específica que capitalice la ubicación/entorno único de Caminito, algo que ninguna otra sucursal puede replicar y que hoy queda fuera de la auditoría formal pero es oportunidad de negocio",
+    "Aplicar el mismo criterio audiovisual que está funcionando en Puerto Madero, dado que comparten equipo — potenciar reels y contenido dinámico aprovechando ese diferencial de plaza"
+  ],
+  "fecha_auditoria": "2026-07-22T15:27:01.985Z"
+}
