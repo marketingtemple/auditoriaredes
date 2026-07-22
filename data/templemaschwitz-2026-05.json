@@ -1,0 +1,35 @@
+{
+  "bar": "templemaschwitz",
+  "mes": "2026-05",
+  "criterios": {
+    "frecuencia": {
+      "puntaje": 25,
+      "max": 25,
+      "comentario": ""
+    },
+    "tono_contenido": {
+      "puntaje": 0,
+      "max": 40,
+      "comentario": ""
+    },
+    "estetica_visual": {
+      "puntaje": 20,
+      "max": 25,
+      "comentario": "1. Utilizan IA de forma muy notoria.\n2. Suben posteos colaborativos con sus empelados (encargados, gerentes o camareros)"
+    },
+    "historias_destacadas": {
+      "puntaje": 0,
+      "max": 10,
+      "comentario": ""
+    }
+  },
+  "puntaje_total": 45,
+  "aprobado": false,
+  "plan_de_accion": [
+    "Reunión urgente con el CM para corregir tono desde cero (0/40) — dejar de usar contenido generado con IA de forma notoria y de postear colaboraciones con empleados sin encuadre de marca; es el criterio de mayor peso y explica gran parte del no aprobado",
+    "Subir las 3 historias destacadas obligatorias (Menú, Horarios, Reservas), pendiente desde marzo — tercer mes consecutivo sin resolverlo",
+    "Frenar el uso de IA en el contenido visual y volver al banco de imágenes/estilo aprobado por la marca para recuperar los 5 pts restantes de estética",
+    "Buena recuperación en frecuencia (0→25) tras dos meses en falla — mantenerla mientras se corrige tono"
+  ],
+  "fecha_auditoria": "2026-07-22T15:11:21.181Z"
+}
