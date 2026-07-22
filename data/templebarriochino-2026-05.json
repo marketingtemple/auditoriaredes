@@ -1,0 +1,35 @@
+{
+  "bar": "templebarriochino",
+  "mes": "2026-05",
+  "criterios": {
+    "frecuencia": {
+      "puntaje": 0,
+      "max": 25,
+      "comentario": ""
+    },
+    "tono_contenido": {
+      "puntaje": 40,
+      "max": 40,
+      "comentario": ""
+    },
+    "estetica_visual": {
+      "puntaje": 25,
+      "max": 25,
+      "comentario": ""
+    },
+    "historias_destacadas": {
+      "puntaje": 0,
+      "max": 10,
+      "comentario": ""
+    }
+  },
+  "puntaje_total": 65,
+  "aprobado": false,
+  "plan_de_accion": [
+    "Retomar frecuencia mínima de 8 posteos/mes de inmediato — segundo mes consecutivo en 0/25 (marzo y abril fueron 25/25, en abril cayó a 0 y no se recuperó), patrón que hay que cortar ya; alcanza para pasar de 65 a 90/100",
+    "Subir las 3 historias destacadas obligatorias (Menú, Horarios, Reservas), pendiente desde marzo — tres meses seguidos sin resolverlo",
+    "Mantener tono y estética tal como están, ya que ambos criterios siguen al máximo",
+    "Reunión urgente con el CM: la frecuencia lleva dos meses en cero pese a que el resto del contenido está bien ejecutado, hay que identificar el cuello de botella operativo"
+  ],
+  "fecha_auditoria": "2026-07-22T14:48:42.933Z"
+}
