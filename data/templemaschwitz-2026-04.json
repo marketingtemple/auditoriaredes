@@ -1,0 +1,35 @@
+{
+  "bar": "templemaschwitz",
+  "mes": "2026-04",
+  "criterios": {
+    "frecuencia": {
+      "puntaje": 0,
+      "max": 25,
+      "comentario": ""
+    },
+    "tono_contenido": {
+      "puntaje": 40,
+      "max": 40,
+      "comentario": ""
+    },
+    "estetica_visual": {
+      "puntaje": 10,
+      "max": 25,
+      "comentario": "No respetan tipografias y utilizan imagenes que no van con la marca."
+    },
+    "historias_destacadas": {
+      "puntaje": 0,
+      "max": 10,
+      "comentario": ""
+    }
+  },
+  "puntaje_total": 50,
+  "aprobado": false,
+  "plan_de_accion": [
+    "Retomar frecuencia mínima de 8 posteos/mes de inmediato — corrección de mayor impacto (25 pts), venía de 0/25 en marzo también",
+    "Corregir estética: aplicar tipografías del KV y usar únicamente el banco de imágenes/estilo aprobado por la marca — mejoró de 15 a 10, hay que revertir esa tendencia",
+    "Subir las 3 historias destacadas obligatorias (Menú, Horarios, Reservas), pendiente desde marzo",
+    "Reunión con el responsable de la cuenta: dos meses seguidos sin aprobar, con retroceso en estética, requiere seguimiento más cercano"
+  ],
+  "fecha_auditoria": "2026-07-22T14:03:26.242Z"
+}
