@@ -1,0 +1,35 @@
+{
+  "bar": "clubtemple",
+  "mes": "2026-04",
+  "criterios": {
+    "frecuencia": {
+      "puntaje": 0,
+      "max": 25,
+      "comentario": ""
+    },
+    "tono_contenido": {
+      "puntaje": 40,
+      "max": 40,
+      "comentario": ""
+    },
+    "estetica_visual": {
+      "puntaje": 5,
+      "max": 25,
+      "comentario": "No respetan tipografias ni KV."
+    },
+    "historias_destacadas": {
+      "puntaje": 0,
+      "max": 10,
+      "comentario": ""
+    }
+  },
+  "puntaje_total": 45,
+  "aprobado": false,
+  "plan_de_accion": [
+    "Reunión urgente con el responsable de la cuenta: pasó de 5/100 en marzo a 45/100, mejora en tono pero sigue lejos del aprobado — la cuenta independiente sigue sin ejecutar la bajada de marca correctamente",
+    "Retomar frecuencia mínima de 8 posteos/mes de inmediato — corrección de mayor impacto (25 pts)",
+    "Aplicar tipografías y elementos del KV en las piezas gráficas, hoy prácticamente sin uso (5/25)",
+    "Subir las 3 historias destacadas obligatorias (Menú, Horarios, Reservas), pendiente desde marzo"
+  ],
+  "fecha_auditoria": "2026-07-22T14:01:13.119Z"
+}
