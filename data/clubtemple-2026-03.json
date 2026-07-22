@@ -1,0 +1,32 @@
+{
+  "bar": "clubtemple",
+  "mes": "2026-03",
+  "criterios": {
+    "frecuencia": {
+      "puntaje": 0,
+      "max": 25,
+      "comentario": ""
+    },
+    "tono_contenido": {
+      "puntaje": 0,
+      "max": 40,
+      "comentario": ""
+    },
+    "estetica_visual": {
+      "puntaje": 5,
+      "max": 25,
+      "comentario": "El uso de las imagenes esta ok"
+    },
+    "historias_destacadas": {
+      "puntaje": 0,
+      "max": 10,
+      "comentario": ""
+    }
+  },
+  "puntaje_total": 5,
+  "aprobado": false,
+  "plan_de_accion": [
+    "[\"Retomar la frecuencia mínima de 8 posteos/mes de forma inmediata, es la corrección más simple y rápida de recuperar (25 pts)\", \"Enviar de nuevo el KV del mes y exigir que se use como base real del contenido y del tono, no solo de las imágenes — hoy están alineados solo en estética\", \"Cargar historias destacadas obligatorias (Menú, Horarios, Reservas) con los assets ya enviados por la marca\""
+  ],
+  "fecha_auditoria": "2026-07-22T13:38:16.519Z"
+}
