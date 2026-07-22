@@ -1,0 +1,35 @@
+{
+  "bar": "templesalta",
+  "mes": "2026-03",
+  "criterios": {
+    "frecuencia": {
+      "puntaje": 0,
+      "max": 25,
+      "comentario": ""
+    },
+    "tono_contenido": {
+      "puntaje": 40,
+      "max": 40,
+      "comentario": ""
+    },
+    "estetica_visual": {
+      "puntaje": 25,
+      "max": 25,
+      "comentario": ""
+    },
+    "historias_destacadas": {
+      "puntaje": 0,
+      "max": 10,
+      "comentario": ""
+    }
+  },
+  "puntaje_total": 65,
+  "aprobado": false,
+  "plan_de_accion": [
+    "Retomar frecuencia mínima de 8 posteos/mes de inmediato — es la corrección de mayor impacto, alcanza para pasar de 65 a 90/100",
+    "Subir las 3 historias destacadas obligatorias (Menú, Horarios, Reservas) con los assets enviados por la marca — suma los 10 pts restantes para llegar a 100/100",
+    "Mantener tono y estética tal como están, ya que ambos criterios están al máximo",
+    "Armar un calendario de contenido con fechas fijas de publicación para evitar que la frecuencia vuelva a caer a 0 el próximo mes"
+  ],
+  "fecha_auditoria": "2026-07-22T13:51:25.453Z"
+}
