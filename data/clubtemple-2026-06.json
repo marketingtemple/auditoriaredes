@@ -1,0 +1,35 @@
+{
+  "bar": "clubtemple",
+  "mes": "2026-06",
+  "criterios": {
+    "frecuencia": {
+      "puntaje": 25,
+      "max": 25,
+      "comentario": ""
+    },
+    "tono_contenido": {
+      "puntaje": 0,
+      "max": 40,
+      "comentario": ""
+    },
+    "estetica_visual": {
+      "puntaje": 0,
+      "max": 25,
+      "comentario": ""
+    },
+    "historias_destacadas": {
+      "puntaje": 0,
+      "max": 10,
+      "comentario": ""
+    }
+  },
+  "puntaje_total": 25,
+  "aprobado": false,
+  "plan_de_accion": [
+    "Reunión urgente y formal con el responsable de la cuenta: cuarto mes consecutivo no aprobado (5→45→40→25), con tono y estética en cero total — la gestión independiente de esta cuenta no está funcionando, hay que escalarlo como problema de gestión, no de contenido",
+    "Evaluar intervención directa de marca en la cuenta (toma de control temporal o reemplazo de responsable) dado el patrón sostenido de incumplimiento total de las bajadas, algo que ninguna otra sucursal repite mes a mes",
+    "Si se mantiene la gestión actual, exigir uso obligatorio y verificable del KV en cada pieza antes de publicar, con aprobación previa de marca hasta recomponer confianza",
+    "Subir las 3 historias destacadas obligatorias (Menú, Horarios, Reservas), pendiente desde marzo — cuarto mes consecutivo sin resolverlo"
+  ],
+  "fecha_auditoria": "2026-07-22T15:25:47.718Z"
+}
