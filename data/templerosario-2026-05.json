@@ -1,0 +1,35 @@
+{
+  "bar": "templerosario",
+  "mes": "2026-05",
+  "criterios": {
+    "frecuencia": {
+      "puntaje": 0,
+      "max": 25,
+      "comentario": ""
+    },
+    "tono_contenido": {
+      "puntaje": 40,
+      "max": 40,
+      "comentario": ""
+    },
+    "estetica_visual": {
+      "puntaje": 25,
+      "max": 25,
+      "comentario": ""
+    },
+    "historias_destacadas": {
+      "puntaje": 0,
+      "max": 10,
+      "comentario": ""
+    }
+  },
+  "puntaje_total": 65,
+  "aprobado": false,
+  "plan_de_accion": [
+    "Retomar frecuencia mínima de 8 posteos/mes — venían de dos meses en 100/100, la caída es puntual de volumen; alcanza para pasar de 65 a 90/100",
+    "Potenciar la línea de reels que vienen trabajando bien: usarla como eje para sumar el volumen faltante, no solo como pieza ocasional sino como parte fija del calendario mensual",
+    "Subir las 3 historias destacadas obligatorias (Menú, Horarios, Reservas)",
+    "Mantener tono y estética tal como están, ya que ambos criterios siguen al máximo"
+  ],
+  "fecha_auditoria": "2026-07-22T15:19:26.696Z"
+}
