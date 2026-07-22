@@ -1,0 +1,35 @@
+{
+  "bar": "templetucuman",
+  "mes": "2026-05",
+  "criterios": {
+    "frecuencia": {
+      "puntaje": 0,
+      "max": 25,
+      "comentario": ""
+    },
+    "tono_contenido": {
+      "puntaje": 40,
+      "max": 40,
+      "comentario": ""
+    },
+    "estetica_visual": {
+      "puntaje": 25,
+      "max": 25,
+      "comentario": ""
+    },
+    "historias_destacadas": {
+      "puntaje": 0,
+      "max": 10,
+      "comentario": ""
+    }
+  },
+  "puntaje_total": 65,
+  "aprobado": false,
+  "plan_de_accion": [
+    "Retomar frecuencia mínima de 8 posteos/mes de inmediato — venían de dos meses consecutivos en 100/100 (abril y mayo aprobados), la caída es por volumen no por calidad; alcanza para pasar de 65 a 90/100",
+    "Resolver el vínculo del equipo de redes con el local: es la causa raíz del faltante de posteos, no la ejecución — coordinar una vía directa de información (fotos, novedades, promos) entre el local y quien gestiona la cuenta",
+    "Subir las 3 historias destacadas obligatorias (Menú, Horarios, Reservas)",
+    "Mantener tono y estética tal como están, ya que ambos criterios siguen al máximo pese al problema de vínculo"
+  ],
+  "fecha_auditoria": "2026-07-22T15:17:13.748Z"
+}
