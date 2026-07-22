@@ -1,0 +1,35 @@
+{
+  "bar": "templecordoba",
+  "mes": "2026-05",
+  "criterios": {
+    "frecuencia": {
+      "puntaje": 0,
+      "max": 25,
+      "comentario": ""
+    },
+    "tono_contenido": {
+      "puntaje": 0,
+      "max": 40,
+      "comentario": ""
+    },
+    "estetica_visual": {
+      "puntaje": 0,
+      "max": 25,
+      "comentario": ""
+    },
+    "historias_destacadas": {
+      "puntaje": 0,
+      "max": 10,
+      "comentario": ""
+    }
+  },
+  "puntaje_total": 0,
+  "aprobado": false,
+  "plan_de_accion": [
+    "Reunión urgente con el responsable de la cuenta: 0/100 con inactividad total — venía de dos meses con frecuencia en falla (marzo 25/25, abril 0/25) y ahora la cuenta se apagó por completo, requiere intervención inmediata",
+    "Confirmar si hay un problema operativo (sin CM asignado, sin acceso a la cuenta, cambio de encargado) que explique la inactividad total antes de pedir contenido",
+    "Evaluar reasignación de responsable dado el deterioro sostenido en tres meses (100→75→0), para no arrastrar un cuarto mes en cero",
+    "Retomar publicaciones de inmediato con el KV de junio, priorizando volver a la frecuencia mínima de 8 posteos/mes"
+  ],
+  "fecha_auditoria": "2026-07-22T15:13:20.410Z"
+}
