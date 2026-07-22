@@ -1,0 +1,35 @@
+{
+  "bar": "clubtemple",
+  "mes": "2026-05",
+  "criterios": {
+    "frecuencia": {
+      "puntaje": 0,
+      "max": 25,
+      "comentario": ""
+    },
+    "tono_contenido": {
+      "puntaje": 40,
+      "max": 40,
+      "comentario": ""
+    },
+    "estetica_visual": {
+      "puntaje": 0,
+      "max": 25,
+      "comentario": ""
+    },
+    "historias_destacadas": {
+      "puntaje": 0,
+      "max": 10,
+      "comentario": ""
+    }
+  },
+  "puntaje_total": 40,
+  "aprobado": false,
+  "plan_de_accion": [
+    "Reunión urgente con el responsable de la cuenta: tercer mes consecutivo no aprobado (5→45→40) y estética retrocedió a 0/25 — la gestión independiente sigue sin resolver, evaluar intervención directa de la marca en esta cuenta",
+    "Retomar frecuencia mínima de 8 posteos/mes de inmediato — corrección de mayor impacto (25 pts)",
+    "Corregir estética desde cero: usar tipografías, imágenes y elementos del KV enviado, hoy en 0/25 tras haber estado en 5/25 el mes anterior",
+    "Subir las 3 historias destacadas obligatorias (Menú, Horarios, Reservas), pendiente hace tres meses consecutivos"
+  ],
+  "fecha_auditoria": "2026-07-22T15:08:14.697Z"
+}
