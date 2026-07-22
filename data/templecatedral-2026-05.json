@@ -1,0 +1,35 @@
+{
+  "bar": "templecatedral",
+  "mes": "2026-05",
+  "criterios": {
+    "frecuencia": {
+      "puntaje": 0,
+      "max": 25,
+      "comentario": ""
+    },
+    "tono_contenido": {
+      "puntaje": 0,
+      "max": 40,
+      "comentario": ""
+    },
+    "estetica_visual": {
+      "puntaje": 0,
+      "max": 25,
+      "comentario": ""
+    },
+    "historias_destacadas": {
+      "puntaje": 0,
+      "max": 10,
+      "comentario": ""
+    }
+  },
+  "puntaje_total": 0,
+  "aprobado": false,
+  "plan_de_accion": [
+    "Reunión urgente con el responsable de la cuenta: 0/100 con inactividad total en el mes — situación crítica que requiere intervención inmediata, no solo ajustes de contenido",
+    "Confirmar si hay un problema operativo (sin CM asignado, sin acceso a la cuenta, cambio de encargado) que explique la inactividad total antes de pedir contenido",
+    "Evaluar reasignación de responsable dado el antecedente de inactividad completa, para no repetir un mes en cero",
+    "Retomar publicaciones de inmediato con el KV de junio, priorizando volver a la frecuencia mínima de 8 posteos/mes y subir las historias destacadas obligatorias"
+  ],
+  "fecha_auditoria": "2026-07-22T15:12:21.720Z"
+}
