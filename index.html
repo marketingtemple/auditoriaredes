@@ -297,7 +297,8 @@
     `).join("");
     const promedio = Math.round(registros.reduce((s, r) => s + r.puntaje_total, 0) / registros.length);
     const aprobadas = registros.filter(r => r.aprobado).length;
-    const rows = registros.map(r => `
+    const registrosTabla = [...registros].sort((a, b) => b.mes.localeCompare(a.mes));
+    const rows = registrosTabla.map(r => `
       <tr>
         <td>${r.mes}</td>
         <td class="mono">${r.puntaje_total}/100</td>
