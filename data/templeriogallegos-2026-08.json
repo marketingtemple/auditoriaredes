@@ -1,0 +1,34 @@
+{
+  "bar": "templeriogallegos",
+  "mes": "2026-08",
+  "criterios": {
+    "frecuencia": {
+      "puntaje": 25,
+      "max": 25,
+      "comentario": ""
+    },
+    "tono_contenido": {
+      "puntaje": 40,
+      "max": 40,
+      "comentario": "Buscar la forma de no utilizar tanto el mismo recurso de comunicacion de eventos. Ir modificando los fondos, siempre dentro del tono temple."
+    },
+    "estetica_visual": {
+      "puntaje": 0,
+      "max": 25,
+      "comentario": ""
+    },
+    "historias_destacadas": {
+      "puntaje": 10,
+      "max": 10,
+      "comentario": ""
+    }
+  },
+  "puntaje_total": 75,
+  "aprobado": false,
+  "plan_de_accion": [
+    "Corregir estética de inmediato: pasó de 20/25 en junio a 0/25 este mes, caída fuerte que hay que revertir ya — revisar tipografías y uso del KV en cada pieza; con esto solo se recupera el aprobado (75→100)",
+    "Variar los fondos y recursos gráficos de la comunicación de eventos, evitando repetir siempre el mismo, pero manteniéndose dentro del tono Temple — esto también ayuda a que la estética no se sienta repetitiva",
+    "Mantener frecuencia y destacadas tal como están, ya que ambos criterios siguen al máximo"
+  ],
+  "fecha_auditoria": "2026-08-06T19:47:06.015Z"
+}
