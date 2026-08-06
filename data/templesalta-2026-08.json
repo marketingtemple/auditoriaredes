@@ -1,0 +1,35 @@
+{
+  "bar": "templesalta",
+  "mes": "2026-08",
+  "criterios": {
+    "frecuencia": {
+      "puntaje": 0,
+      "max": 25,
+      "comentario": "2 posteos"
+    },
+    "tono_contenido": {
+      "puntaje": 0,
+      "max": 40,
+      "comentario": ""
+    },
+    "estetica_visual": {
+      "puntaje": 0,
+      "max": 25,
+      "comentario": ""
+    },
+    "historias_destacadas": {
+      "puntaje": 0,
+      "max": 10,
+      "comentario": ""
+    }
+  },
+  "puntaje_total": 0,
+  "aprobado": false,
+  "plan_de_accion": [
+    "Reunión urgente y formal con el responsable de la cuenta: retrocede a 0/100 tras haber llegado a 65/100 en junio, con solo 2 posteos en el mes — patrón de abandono que ya lleva varios meses irregulares (0→0→0→65→0)",
+    "Confirmar si persiste el problema de vínculo/información con el local identificado meses atrás, ya que sigue siendo la causa raíz más probable del desplome",
+    "Evaluar reasignación de responsable o refuerzo desde central con piezas ya armadas, dado que la cuenta no logra sostener mejoras cuando las consigue",
+    "Retomar de inmediato frecuencia mínima, uso del KV vigente y destacadas obligatorias, priorizando el DO de producto (birras llenas con espuma) marcado en meses anteriores"
+  ],
+  "fecha_auditoria": "2026-08-06T19:42:28.832Z"
+}
