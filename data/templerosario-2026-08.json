@@ -1,0 +1,34 @@
+{
+  "bar": "templerosario",
+  "mes": "2026-08",
+  "criterios": {
+    "frecuencia": {
+      "puntaje": 25,
+      "max": 25,
+      "comentario": ""
+    },
+    "tono_contenido": {
+      "puntaje": 40,
+      "max": 40,
+      "comentario": "Esta bueno el tono y los videos que hicieron."
+    },
+    "estetica_visual": {
+      "puntaje": 5,
+      "max": 25,
+      "comentario": "Ojo las imagenes que estan usando! Buscar algo mas profesional."
+    },
+    "historias_destacadas": {
+      "puntaje": 10,
+      "max": 10,
+      "comentario": ""
+    }
+  },
+  "puntaje_total": 80,
+  "aprobado": true,
+  "plan_de_accion": [
+    "Corregir estética de forma urgente: cayó de 25/25 en junio a 5/25 este mes por uso de imágenes poco profesionales — aprobó justo en el límite (80/100) sostenido casi solo por frecuencia y tono, no hay margen para otro retroceso",
+    "Buscar un banco de imágenes o referencias más profesionales, alineadas al nivel del KV, y aplicarlo tanto en fotos como en piezas gráficas",
+    "Mantener el buen nivel de tono y el formato de video que viene funcionando bien, además de frecuencia y destacadas al máximo"
+  ],
+  "fecha_auditoria": "2026-08-06T19:50:35.847Z"
+}
