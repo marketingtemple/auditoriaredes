@@ -1,0 +1,33 @@
+{
+  "bar": "templesgo",
+  "mes": "2026-08",
+  "criterios": {
+    "frecuencia": {
+      "puntaje": 25,
+      "max": 25,
+      "comentario": ""
+    },
+    "tono_contenido": {
+      "puntaje": 40,
+      "max": 40,
+      "comentario": ""
+    },
+    "estetica_visual": {
+      "puntaje": 25,
+      "max": 25,
+      "comentario": ""
+    },
+    "historias_destacadas": {
+      "puntaje": 10,
+      "max": 10,
+      "comentario": ""
+    }
+  },
+  "puntaje_total": 100,
+  "aprobado": true,
+  "plan_de_accion": [
+    "Mantener el estándar actual en los 4 criterios — sostiene 100/100 tras resolver el pendiente de destacadas, buena consolidación en base al buen trabajo con reels",
+    "Sin acciones correctivas pendientes; seguir potenciando el formato de reels que viene funcionando bien"
+  ],
+  "fecha_auditoria": "2026-08-06T19:52:16.826Z"
+}
