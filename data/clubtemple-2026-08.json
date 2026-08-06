@@ -1,0 +1,35 @@
+{
+  "bar": "clubtemple",
+  "mes": "2026-08",
+  "criterios": {
+    "frecuencia": {
+      "puntaje": 0,
+      "max": 25,
+      "comentario": "6 posteos en todo el mes."
+    },
+    "tono_contenido": {
+      "puntaje": 40,
+      "max": 40,
+      "comentario": "El tono que le dan esta bien pero tienen que mejorar las imagenes y los diseños."
+    },
+    "estetica_visual": {
+      "puntaje": 0,
+      "max": 25,
+      "comentario": ""
+    },
+    "historias_destacadas": {
+      "puntaje": 0,
+      "max": 10,
+      "comentario": ""
+    }
+  },
+  "puntaje_total": 40,
+  "aprobado": false,
+  "plan_de_accion": [
+    "Reunión urgente y formal con el responsable de la cuenta: quinto mes consecutivo no aprobado (5→45→40→25→40), patrón sostenido que ya no se resuelve con pedidos puntuales — escalarlo como problema de gestión",
+    "Cerrar la brecha de frecuencia: hicieron 6 de los 8 posteos mínimos, faltó poco — sumar 2 piezas más al mes alcanza para destrabar los 25 pts completos",
+    "Corregir estética desde cero: el tono ya está bien resuelto, pero imágenes y diseños siguen sin usar el KV — foco puntual en piezas gráficas y banco de imágenes aprobado",
+    "Subir las 3 historias destacadas obligatorias (Menú, Horarios, Reservas), pendiente desde marzo — quinto mes consecutivo sin resolverlo"
+  ],
+  "fecha_auditoria": "2026-08-06T19:13:38.995Z"
+}
