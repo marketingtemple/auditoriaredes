@@ -1,0 +1,35 @@
+{
+  "bar": "templecomodoro",
+  "mes": "2026-08",
+  "criterios": {
+    "frecuencia": {
+      "puntaje": 0,
+      "max": 25,
+      "comentario": "2 posteos. Solo los que les paso la marca."
+    },
+    "tono_contenido": {
+      "puntaje": 0,
+      "max": 40,
+      "comentario": ""
+    },
+    "estetica_visual": {
+      "puntaje": 0,
+      "max": 25,
+      "comentario": ""
+    },
+    "historias_destacadas": {
+      "puntaje": 0,
+      "max": 10,
+      "comentario": ""
+    }
+  },
+  "puntaje_total": 0,
+  "aprobado": false,
+  "plan_de_accion": [
+    "Reunión urgente y formal con el responsable de la cuenta: quinto mes consecutivo crítico (15→0→0→0→0), cuarto mes seguido de inactividad casi total y depende por completo de lo que envía la marca — la gestión local no existe hoy",
+    "Escalar reasignación de responsable como decisión inmediata, no como opción: cuatro meses de abandono confirman que el problema no se resuelve con más seguimiento",
+    "Confirmar causa de fondo (local cerrado, sin encargado, conflicto interno) antes de invertir más tiempo en pedidos de contenido a esta gestión",
+    "Si se resuelve el bloqueo, evaluar que central sostenga el contenido de forma temporal (como ya viene pasando de hecho) hasta asegurar un responsable local activo"
+  ],
+  "fecha_auditoria": "2026-08-06T19:44:46.374Z"
+}
